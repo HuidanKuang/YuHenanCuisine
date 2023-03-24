@@ -2,8 +2,8 @@ body{
     font-family: 'ZCOOL QingKe HuangYou', sans-serif;
     font-size: 16px;
     line-height: 22px;
-    color: #222;
-    background-color:aliceblue;
+    color: hsl(0, 0%, 13%);
+    background-color:white;
     display: flex;
     justify-content: center;
 }
